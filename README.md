@@ -15,11 +15,18 @@ https://metrics.lecoq.io/
 国内网站统计 Readme Stats：
 https://github.com/songquanpeng/stats-cards
 
-小牌子：
+仓库成长图 GitHub Repo Charts
+https://github.com/TaroXin/github-repo-charts
+
+
+
+小牌子生成 shields：
 https://shields.io/
 
 
 
-
+其他合集类：
+https://github.com/kautukkundan/Awesome-Profile-README-templates
+https://github.com/coderjojo/creative-profile-readme
 
 -->
