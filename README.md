@@ -1,19 +1,25 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=chenbihao&show_icons=true&theme=dark">
+
 ### Hi there 👋
 
-![chenbihao's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenbihao&show_icons=true&theme=dark)
 
 
 <!--
-**chenbihao/chenbihao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+GitHub Readme Stats：
+https://github.com/anuraghazra/github-readme-stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+统计信息 Metrics：
+https://metrics.lecoq.io/
+
+国内网站统计 Readme Stats：
+https://github.com/songquanpeng/stats-cards
+
+小牌子：
+https://shields.io/
+
+
+
+
+
 -->
