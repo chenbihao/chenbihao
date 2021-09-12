@@ -21,9 +21,10 @@ https://github.com/TaroXin/github-repo-charts
 
 
 小牌子生成 shields：
-https://shields.io/
+https://shields.io/      
 
-
+GitHub Actions 入门教程 - 阮一峰
+http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html
 
 其他合集类：
 https://github.com/kautukkundan/Awesome-Profile-README-templates
